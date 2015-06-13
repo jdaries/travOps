@@ -13,5 +13,6 @@ BOT_NAME = 'euroCities'
 SPIDER_MODULES = ['euroCities.spiders']
 NEWSPIDER_MODULE = 'euroCities.spiders'
 
+FEED_FORMAT = 'jsonlines'
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'euroCities (+http://www.yourdomain.com)'

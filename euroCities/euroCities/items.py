@@ -19,5 +19,7 @@ class CityLinkItem(scrapy.Item):
     link = scrapy.Field()
 
 class CityItem(scrapy.Item):
-    title = scrapy.Field()
-    location = scrapy.Field()
+    city = scrapy.Field()
+    country = scrapy.Field()
+    latitude = scrapy.Field()
+    longitude = scrapy.Field()
