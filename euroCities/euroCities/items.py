@@ -8,9 +8,16 @@
 import scrapy
 
 
-class EuroCityItem(scrapy.Item):
+class CityListItem(scrapy.Item):
     # define the fields for your item here like:
     title = scrapy.Field()
     link = scrapy.Field()
-    desc = scrapy.Field()
-    
+
+class CityLinkItem(scrapy.Item):
+    # define the fields for your item here like:
+    title = scrapy.Field()
+    link = scrapy.Field()
+
+class CityItem(scrapy.Item):
+    title = scrapy.Field()
+    location = scrapy.Field()
