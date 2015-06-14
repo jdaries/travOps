@@ -6013,3 +6013,285 @@
 {"latitude": ["18\u00b04\u203231\u2033N"], "city": ["Saint-Martin"], "longitude": ["63\u00b03\u203236\u2033W"], "country": "census)"}
 {"latitude": ["13\u00b018\u2032S"], "city": ["Wallis and Futuna"], "longitude": ["176\u00b012\u2032W"], "country": "census)"}
 {"latitude": ["17\u00b054\u2032N"], "city": ["Saint-Barth\u00e9lemy"], "longitude": ["62\u00b050\u2032W"], "country": "census)"}
+{"latitude": ["13\u00b028\u2032N"], "city": ["Republic of The Gambia"], "longitude": ["16\u00b036\u2032W"], "country": "states"}
+{"latitude": ["0\u00b023\u2032N"], "city": ["Gabonese Republic"], "longitude": ["9\u00b027\u2032E"], "country": "states"}
+{"latitude": ["45\u00b028\u2032N"], "city": ["Milan"], "longitude": ["09\u00b011\u2032E"], "country": "/wiki/Europe"}
+{"latitude": ["51\u00b030\u2032N"], "city": ["Ruhr"], "longitude": ["7\u00b030\u2032E"], "country": "/wiki/Europe"}
+{"latitude": ["52\u00b024\u2032N"], "city": ["Randstad"], "longitude": ["4\u00b054\u2032E"], "country": "/wiki/Europe"}
+{"latitude": ["40\u00b023\u2032N"], "city": ["Madrid"], "longitude": ["3\u00b043\u2032W"], "country": "/wiki/Europe"}
+{"latitude": ["48\u00b051\u203224\u2033N"], "city": ["Paris"], "longitude": ["2\u00b021\u203203\u2033E"], "country": "/wiki/Europe"}
+{"latitude": ["48\u00b056\u20320\u2033N"], "city": ["Sievierodonetsk"], "longitude": ["38\u00b030\u20320\u2033E"], "country": "Ukraine"}
+{"latitude": ["45\u00b011\u203238\u2033N"], "city": ["Yevpatoria"], "longitude": ["33\u00b022\u20325\u2033E"], "country": "Ukraine"}
+{"latitude": ["48\u00b053.8\u2032N"], "city": ["Lysychansk"], "longitude": ["38\u00b028\u2032E"], "country": "Ukraine"}
+{"latitude": ["48\u00b037\u203226\u2033N"], "city": ["Uzhhorod"], "longitude": ["22\u00b017\u203242\u2033E"], "country": "Ukraine"}
+{"latitude": ["51\u00b030\u203226\u2033N"], "city": ["London"], "longitude": ["00\u00b007\u203239\u2033W"], "country": "/wiki/Europe"}
+{"latitude": ["55\u00b045\u2032N"], "city": ["Moscow"], "longitude": ["37\u00b037\u2032E"], "country": "/wiki/Europe"}
+{"latitude": ["48\u00b031\u20320\u2033N"], "city": ["Pavlohrad"], "longitude": ["35\u00b052\u20320\u2033E"], "country": "Ukraine"}
+{"latitude": ["41\u00b023\u203238\u2033N"], "city": ["Vor\u00eb"], "longitude": ["19\u00b039\u203216\u2033E"], "country": "Albania"}
+{"latitude": ["41\u00b000\u203249\u2033N"], "city": ["Istanbul"], "longitude": ["28\u00b057\u203218\u2033E"], "country": "/wiki/Europe"}
+{"latitude": ["40\u00b046\u2032N"], "city": ["Ura Vajgurore"], "longitude": ["19\u00b053\u2032E"], "country": "Albania"}
+{"latitude": ["40\u00b027.9\u2032N"], "city": ["Vlor\u00eb"], "longitude": ["19\u00b029.1\u2032E"], "country": "Albania"}
+{"latitude": ["41\u00b041\u20320\u2033N"], "city": ["Ul\u00ebz"], "longitude": ["19\u00b053\u203240\u2033E"], "country": "Albania"}
+{"latitude": ["42\u00b00\u2032N"], "city": ["Vau i Dej\u00ebs"], "longitude": ["19\u00b038\u2032E"], "country": "Albania"}
+{"latitude": ["40\u00b018\u2032N"], "city": ["Tepelen\u00eb"], "longitude": ["20\u00b01\u2032E"], "country": "Albania"}
+{"latitude": ["41\u00b020\u203244\u2033N"], "city": ["Shijak"], "longitude": ["19\u00b034\u20322\u2033E"], "country": "Albania"}
+{"latitude": ["41\u00b023\u2032N"], "city": ["Sukth"], "longitude": ["19\u00b032\u2032E"], "country": "Albania"}
+{"latitude": ["41\u00b019\u203248\u2033N"], "city": ["Tirana"], "longitude": ["19\u00b049\u203212\u2033E"], "country": "Albania"}
+{"latitude": ["42\u00b004\u2032N"], "city": ["Shkod\u00ebr"], "longitude": ["19\u00b030\u2032E"], "country": "Albania"}
+{"latitude": ["40\u00b032\u2032N"], "city": ["Selenic\u00eb"], "longitude": ["19\u00b038\u2032E"], "country": "Albania"}
+{"latitude": ["48\u00b013\u203200\u2033N"], "city": ["Yenakiieve"], "longitude": ["38\u00b012\u203200\u2033E"], "country": "Ukraine"}
+{"latitude": ["41\u00b048\u203249\u2033N"], "city": ["Sh\u00ebngjin"], "longitude": ["19\u00b035\u203238\u2033E"], "country": "Albania"}
+{"latitude": ["41\u00b046\u2032N"], "city": ["Rubik"], "longitude": ["19\u00b047\u2032E"], "country": "Albania"}
+{"latitude": ["41\u00b04\u203234\u2033N"], "city": ["Rrogozhin\u00eb"], "longitude": ["19\u00b040\u20320\u2033E"], "country": "Albania"}
+{"latitude": ["41\u00b046\u2032N"], "city": ["Rr\u00ebshen"], "longitude": ["19\u00b053\u2032E"], "country": "Albania"}
+{"latitude": ["48\u00b028\u203240\u2033N"], "city": ["Alchevsk"], "longitude": ["38\u00b047\u203252\u2033E"], "country": "Ukraine"}
+{"latitude": ["39\u00b052.5\u2032N"], "city": ["Sarand\u00eb"], "longitude": ["20\u00b00.6\u2032E"], "country": "Albania"}
+{"latitude": ["45\u00b021\u203243\u2033N"], "city": ["Kerch"], "longitude": ["36\u00b028\u203216\u2033E"], "country": "Ukraine"}
+{"latitude": ["46\u00b045\u203235\u2033N"], "city": ["Berdiansk"], "longitude": ["36\u00b047\u203204\u2033E"], "country": "Ukraine"}
+{"latitude": ["47\u00b034\u2032N"], "city": ["Nikopol"], "longitude": ["34\u00b024\u2032E"], "country": "Ukraine"}
+{"latitude": ["46\u00b056\u203259.33\u2033N"], "city": ["Melitopol"], "longitude": ["35\u00b028\u203211.59\u2033E"], "country": "Ukraine"}
+{"latitude": ["49\u00b047\u203256\u2033N"], "city": ["Bila Tserkva"], "longitude": ["30\u00b006\u203255\u2033E"], "country": "Ukraine"}
+{"latitude": ["49\u00b034\u2032N"], "city": ["Ternopil"], "longitude": ["25\u00b036\u2032E"], "country": "Ukraine"}
+{"latitude": ["50\u00b037\u2032N"], "city": ["Rivne"], "longitude": ["26\u00b015\u2032E"], "country": "Ukraine"}
+{"latitude": ["48\u00b018\u20320\u2033N"], "city": ["Chernivtsi"], "longitude": ["25\u00b056\u20320\u2033E"], "country": "Ukraine"}
+{"latitude": ["50\u00b045\u203200\u2033N"], "city": ["Lutsk"], "longitude": ["25\u00b020\u203209\u2033E"], "country": "Ukraine"}
+{"latitude": ["49\u00b004\u203200\u2033N"], "city": ["Kremenchuk"], "longitude": ["33\u00b025\u203200\u2033E"], "country": "Ukraine"}
+{"latitude": ["48\u00b055\u203222\u2033N"], "city": ["Ivano-Frankivsk"], "longitude": ["24\u00b042\u203238\u2033E"], "country": "Ukraine"}
+{"latitude": ["48\u00b051\u203212\u2033N"], "city": ["Sloviansk"], "longitude": ["37\u00b037\u203230\u2033E"], "country": "Ukraine"}
+{"latitude": ["48\u00b030\u20320\u2033N"], "city": ["Kirovohrad"], "longitude": ["32\u00b016\u20320\u2033E"], "country": "Ukraine"}
+{"latitude": ["49\u00b025\u20320\u2033N"], "city": ["Khmelnytskyi"], "longitude": ["27\u00b000\u20320\u2033E"], "country": "Ukraine"}
+{"latitude": ["50\u00b015\u20320\u2033N"], "city": ["Zhytomyr"], "longitude": ["28\u00b040\u20320\u2033E"], "country": "Ukraine"}
+{"latitude": ["50\u00b055\u2032N"], "city": ["Sumy"], "longitude": ["34\u00b045\u2032E"], "country": "Ukraine"}
+{"latitude": ["49\u00b026\u203240\u2033N"], "city": ["Cherkasy"], "longitude": ["32\u00b003\u203235\u2033E"], "country": "Ukraine"}
+{"latitude": ["48\u00b043\u2032N"], "city": ["Kramatorsk"], "longitude": ["37\u00b032\u2032E"], "country": "Ukraine"}
+{"latitude": ["51\u00b030\u20320\u2033N"], "city": ["Chernihiv"], "longitude": ["31\u00b018\u20320\u2033E"], "country": "Ukraine"}
+{"latitude": ["44\u00b057\u20327\u2033N"], "city": ["Simferopol"], "longitude": ["34\u00b06\u20328\u2033E"], "country": "Ukraine"}
+{"latitude": ["49\u00b035\u203222\u2033N"], "city": ["Poltava"], "longitude": ["34\u00b033\u203205\u2033E"], "country": "Ukraine"}
+{"latitude": ["46\u00b038\u20320\u2033N"], "city": ["Kherson"], "longitude": ["32\u00b035\u20320\u2033E"], "country": "Ukraine"}
+{"latitude": ["44\u00b036\u203200\u2033N"], "city": ["Sevastopol"], "longitude": ["33\u00b032\u203200\u2033E"], "country": "Ukraine"}
+{"latitude": ["49\u00b014\u2032N"], "city": ["Vinnytsia"], "longitude": ["28\u00b029\u2032E"], "country": "Ukraine"}
+{"latitude": ["48\u00b031\u203200\u2033N"], "city": ["Dniprodzerzhynsk"], "longitude": ["34\u00b037\u203200\u2033E"], "country": "Ukraine"}
+{"latitude": ["46\u00b058\u20320\u2033N"], "city": ["Mykolaiv"], "longitude": ["32\u00b000\u20320\u2033E"], "country": "Ukraine"}
+{"latitude": ["47\u00b055\u20320\u2033N"], "city": ["Kryvyi Rih"], "longitude": ["33\u00b015\u20320\u2033E"], "country": "Ukraine"}
+{"latitude": ["46\u00b028\u2032N"], "city": ["Odessa"], "longitude": ["30\u00b044\u2032E"], "country": "Ukraine"}
+{"latitude": ["49\u00b051\u2032N"], "city": ["Lviv"], "longitude": ["24\u00b001\u2032E"], "country": "Ukraine"}
+{"latitude": ["48\u00b005\u203200\u2033N"], "city": ["Makiivka"], "longitude": ["38\u00b004\u203200\u2033E"], "country": "Ukraine"}
+{"latitude": ["48\u00b018\u2032N"], "city": ["Horlivka"], "longitude": ["38\u00b03\u2032E"], "country": "Ukraine"}
+{"latitude": ["47\u00b050\u20320\u2033N"], "city": ["Zaporizhia"], "longitude": ["35\u00b010\u20320\u2033E"], "country": "Ukraine"}
+{"latitude": ["48\u00b034\u20320\u2033N"], "city": ["Luhansk"], "longitude": ["39\u00b020\u20320\u2033E"], "country": "Ukraine"}
+{"latitude": ["48\u00b027\u2032N"], "city": ["Dnipropetrovsk"], "longitude": ["34\u00b059\u2032E"], "country": "Ukraine"}
+{"latitude": ["47\u00b05\u203245\u2033N"], "city": ["Mariupol"], "longitude": ["37\u00b032\u203258\u2033E"], "country": "Ukraine"}
+{"latitude": ["50\u00b027\u203200\u2033N"], "city": ["Kiev"], "longitude": ["30\u00b031\u203224\u2033E"], "country": "Ukraine"}
+{"latitude": ["41\u00b051\u2032N"], "city": ["Reps"], "longitude": ["20\u00b04\u2032E"], "country": "Albania"}
+{"latitude": ["42\u00b003\u2032N"], "city": ["Puk\u00eb"], "longitude": ["19\u00b054\u2032E"], "country": "Albania"}
+{"latitude": ["50\u00b00\u203216\u2033N"], "city": ["Kharkiv"], "longitude": ["36\u00b013\u203253\u2033E"], "country": "Ukraine"}
+{"latitude": ["40\u00b044\u2032N"], "city": ["Roskovec"], "longitude": ["19\u00b042\u2032E"], "country": "Albania"}
+{"latitude": ["41\u00b04\u2032N"], "city": ["Prrenjas"], "longitude": ["20\u00b033\u2032E"], "country": "Albania"}
+{"latitude": ["40\u00b054\u2032N"], "city": ["Pogradec"], "longitude": ["20\u00b039\u2032E"], "country": "Albania"}
+{"latitude": ["40\u00b036\u203244\u2033N"], "city": ["Poli\u00e7an"], "longitude": ["20\u00b05\u203253\u2033E"], "country": "Albania"}
+{"latitude": ["41\u00b040\u203259\u2033N"], "city": ["Peshkopi"], "longitude": ["20\u00b025\u203244\u2033E"], "country": "Albania"}
+{"latitude": ["41\u00b03\u2032N"], "city": ["Peqin"], "longitude": ["19\u00b045\u2032E"], "country": "Albania"}
+{"latitude": ["40\u00b041\u2032N"], "city": ["Patos"], "longitude": ["19\u00b037\u2032E"], "country": "Albania"}
+{"latitude": ["48\u00b000\u203210\u2033N"], "city": ["Donetsk"], "longitude": ["37\u00b048\u203219\u2033E"], "country": "Ukraine"}
+{"latitude": ["40\u00b014\u2032N"], "city": ["P\u00ebrmet"], "longitude": ["20\u00b021\u2032E"], "country": "Albania"}
+{"latitude": ["40\u00b020\u2032N"], "city": ["Orikum"], "longitude": ["19\u00b028\u2032E"], "country": "Albania"}
+{"latitude": ["41\u00b041\u2032N"], "city": ["Milot"], "longitude": ["19\u00b043\u2032E"], "country": "Albania"}
+{"latitude": ["40\u00b021\u2032N"], "city": ["Memaliaj"], "longitude": ["19\u00b059\u2032E"], "country": "Albania"}
+{"latitude": ["41\u00b026\u2032N"], "city": ["Man\u00ebz"], "longitude": ["19\u00b035\u2032E"], "country": "Albania"}
+{"latitude": ["41\u00b035\u2032N"], "city": ["Mamurras"], "longitude": ["19\u00b042\u2032E"], "country": "Albania"}
+{"latitude": ["40\u00b056\u2032N"], "city": ["Lushnj\u00eb"], "longitude": ["19\u00b042\u2032E"], "country": "Albania"}
+{"latitude": ["40\u00b042\u203230\u2033N"], "city": ["Maliq"], "longitude": ["20\u00b042\u20320\u2033E"], "country": "Albania"}
+{"latitude": ["41\u00b011\u2032N"], "city": ["Librazhd"], "longitude": ["20\u00b019\u2032E"], "country": "Albania"}
+{"latitude": ["40\u00b02\u2032N"], "city": ["Libohov\u00eb"], "longitude": ["20\u00b016\u2032E"], "country": "Albania"}
+{"latitude": ["41\u00b038\u20327\u2033N"], "city": ["La\u00e7"], "longitude": ["19\u00b042\u203247\u2033E"], "country": "Albania"}
+{"latitude": ["41\u00b047\u2032N"], "city": ["Lezh\u00eb"], "longitude": ["19\u00b038\u2032E"], "country": "Albania"}
+{"latitude": ["40\u00b09\u2032N"], "city": ["Leskovik"], "longitude": ["20\u00b036\u2032E"], "country": "Albania"}
+{"latitude": ["41\u00b047\u2032N"], "city": ["Kurbnesh"], "longitude": ["20\u00b005\u2032E"], "country": "Albania"}
+{"latitude": ["42\u00b004\u203236\u2033N"], "city": ["Kuk\u00ebs"], "longitude": ["20\u00b025\u203218\u2033E"], "country": "Albania"}
+{"latitude": ["40\u00b048\u203214\u2033N"], "city": ["Ku\u00e7ov\u00eb"], "longitude": ["19\u00b054\u203252\u2033E"], "country": "Albania"}
+{"latitude": ["41\u00b030\u2032N"], "city": ["Kruj\u00eb"], "longitude": ["19\u00b048\u2032E"], "country": "Albania"}
+{"latitude": ["42\u00b012\u2032N"], "city": ["Krum\u00eb"], "longitude": ["20\u00b025\u2032E"], "country": "Albania"}
+{"latitude": ["41\u00b013\u2032N"], "city": ["Krrab\u00eb"], "longitude": ["19\u00b058\u2032E"], "country": "Albania"}
+{"latitude": ["41\u00b025\u203224\u2033N"], "city": ["Krast\u00eb"], "longitude": ["20\u00b012\u203213\u2033E"], "country": "Albania"}
+{"latitude": ["42\u00b042\u2032N"], "city": ["Tsardom"], "longitude": ["23\u00b019\u2032E"], "country": "Bulgaria"}
+{"latitude": ["42\u00b042\u2032N"], "city": ["Principality"], "longitude": ["23\u00b020\u2032E"], "country": "Bulgaria"}
+{"latitude": ["36\u00b008\u203235\u2033N"], "city": ["Gibraltar"], "longitude": ["5\u00b021\u203211\u2033W"], "country": "Bulgaria"}
+{"latitude": ["40\u00b030\u2032N"], "city": ["Mountains"], "longitude": ["47\u00b030\u2032E"], "country": "Azerbaijan"}
+{"latitude": ["41\u00b013\u203214\u2033N"], "city": ["Extreme points"], "longitude": ["47\u00b051\u203228\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["41\u00b040\u2032N"], "city": ["Caspian Sea"], "longitude": ["50\u00b040\u2032E"], "country": "Azerbaijan"}
+{"latitude": ["40\u00b022\u2032N"], "city": ["Soviet Azerbaijan"], "longitude": ["49\u00b053\u2032E"], "country": "Azerbaijan"}
+{"latitude": ["40\u00b018\u2032N"], "city": ["History of the name Azerbaijan"], "longitude": ["47\u00b042\u2032E"], "country": "Azerbaijan"}
+{"latitude": ["37\u00b0N"], "city": ["Atropatene"], "longitude": ["48\u00b0E"], "country": "Azerbaijan"}
+{"latitude": ["41\u00b029\u203258\u2033N"], "city": ["Klos"], "longitude": ["20\u00b005\u203240\u2033E"], "country": "Albania"}
+{"latitude": ["39\u00b040\u2032N"], "city": ["Konispol"], "longitude": ["20\u00b011\u2032E"], "country": "Albania"}
+{"latitude": ["40\u00b018\u203247\u2033N"], "city": ["K\u00eblcyr\u00eb"], "longitude": ["20\u00b011\u203231\u2033E"], "country": "Albania"}
+{"latitude": ["42\u00b012\u203249\u2033N"], "city": ["Koplik"], "longitude": ["19\u00b026\u203211\u2033E"], "country": "Albania"}
+{"latitude": ["41\u00b023\u2032N"], "city": ["Kam\u00ebz"], "longitude": ["19\u00b046\u2032E"], "country": "Albania"}
+{"latitude": ["40\u00b052\u2032N"], "city": ["Gramsh"], "longitude": ["20\u00b011\u2032E"], "country": "Albania"}
+{"latitude": ["40\u00b07\u2032N"], "city": ["Himar\u00eb"], "longitude": ["19\u00b044\u2032E"], "country": "Albania"}
+{"latitude": ["41\u00b029\u2032N"], "city": ["Fush\u00eb-Kruj\u00eb"], "longitude": ["19\u00b043\u2032E"], "country": "Albania"}
+{"latitude": ["41\u00b011\u20324\u2033N"], "city": ["Kavaj\u00eb"], "longitude": ["19\u00b033\u203245\u2033E"], "country": "Albania"}
+{"latitude": ["40\u00b037\u2032N"], "city": ["Kor\u00e7\u00eb"], "longitude": ["20\u00b046\u2032E"], "country": "Albania"}
+{"latitude": ["40\u00b043\u2032N"], "city": ["Fier"], "longitude": ["19\u00b033\u2032E"], "country": "Albania"}
+{"latitude": ["40\u00b004\u2032N"], "city": ["Gjirokast\u00ebr"], "longitude": ["20\u00b008\u2032E"], "country": "Albania"}
+{"latitude": ["42\u00b04\u2032N"], "city": ["Fush\u00eb-Arr\u00ebz"], "longitude": ["20\u00b02\u2032E"], "country": "Albania"}
+{"latitude": ["40\u00b020\u2032N"], "city": ["Ersek\u00eb"], "longitude": ["20\u00b041\u2032E"], "country": "Albania"}
+{"latitude": ["41\u00b006\u2032N"], "city": ["Elbasan"], "longitude": ["20\u00b004\u2032E"], "country": "Albania"}
+{"latitude": ["41\u00b019\u2032N"], "city": ["Durr\u00ebs"], "longitude": ["19\u00b027\u2032E"], "country": "Albania"}
+{"latitude": ["40\u00b030\u2032N"], "city": ["\u00c7orovod\u00eb"], "longitude": ["20\u00b013\u2032E"], "country": "Albania"}
+{"latitude": ["39\u00b057\u2032N"], "city": ["Delvin\u00eb"], "longitude": ["20\u00b06\u2032E"], "country": "Albania"}
+{"latitude": ["41\u00b00\u2032N"], "city": ["Divjak\u00eb"], "longitude": ["19\u00b032\u2032E"], "country": "Albania"}
+{"latitude": ["41\u00b02\u2032N"], "city": ["C\u00ebrrik"], "longitude": ["19\u00b059\u2032E"], "country": "Albania"}
+{"latitude": ["41\u00b036\u203230\u2033N"], "city": ["Burrel"], "longitude": ["20\u00b000\u203240\u2033E"], "country": "Albania"}
+{"latitude": ["40\u00b037\u203239\u2033N"], "city": ["Bilisht"], "longitude": ["20\u00b059\u203224\u2033E"], "country": "Albania"}
+{"latitude": ["41\u00b029\u2032N"], "city": ["Bulqiz\u00eb"], "longitude": ["20\u00b013\u2032E"], "country": "Albania"}
+{"latitude": ["40\u00b036\u20323\u2033N"], "city": ["Ballsh"], "longitude": ["19\u00b044\u203211\u2033E"], "country": "Albania"}
+{"latitude": ["40\u00b042\u2032N"], "city": ["Berat"], "longitude": ["19\u00b057\u2032E"], "country": "Albania"}
+{"latitude": ["42\u00b021\u2032N"], "city": ["Bajram Curri"], "longitude": ["20\u00b05\u2032E"], "country": "Albania"}
+{"latitude": ["42\u00b016\u203235\u2033N"], "city": ["Bajz\u00eb"], "longitude": ["19\u00b025\u203256\u2033E"], "country": "Albania"}
+{"latitude": ["40\u00b037\u203252\u2033N"], "city": ["Geography of Albania"], "longitude": ["21\u00b04\u20326\u2033E"], "country": "Albania"}
+{"latitude": ["43\u00b044\u2032N"], "city": ["Monaco"], "longitude": ["7\u00b025\u2032E"], "country": "Bulgaria"}
+{"latitude": ["7\u00b057\u203225\u2033N"], "city": ["Sri Lanka"], "longitude": ["80\u00b045\u203235\u2033E"], "country": "Armenia"}
+{"latitude": ["40\u00b013\u203206\u2033N"], "city": ["Zardab"], "longitude": ["47\u00b042\u203230\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["41\u00b038\u20321\u2033N"], "city": ["Zaqatala"], "longitude": ["46\u00b038\u203236\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["38\u00b055\u203214\u2033N"], "city": ["Yardimly"], "longitude": ["48\u00b014\u203214\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["40\u00b031\u203206\u2033N"], "city": ["Ujar"], "longitude": ["47\u00b039\u203215\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["40\u00b059\u203232\u2033N"], "city": ["Tovuz"], "longitude": ["45\u00b037\u203244\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["40\u00b020\u203242\u2033N"], "city": ["Tartar"], "longitude": ["46\u00b055\u203244\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["40\u00b037\u203202\u2033N"], "city": ["Yevlakh"], "longitude": ["47\u00b009\u203200\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["39\u00b055\u203255\u2033N"], "city": ["Shirvan"], "longitude": ["48\u00b055\u203213\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["41\u00b004\u203234\u2033N"], "city": ["Siazan"], "longitude": ["49\u00b006\u203250\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["40\u00b035\u203223\u2033N"], "city": ["Sumqayit"], "longitude": ["49\u00b040\u203207\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["39\u00b024\u203226\u2033N"], "city": ["Shakhbuz"], "longitude": ["45\u00b034\u203226\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["39\u00b032\u203245\u2033N"], "city": ["Sharur"], "longitude": ["44\u00b058\u203220\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["40\u00b049\u203247\u2033N"], "city": ["Shamkir"], "longitude": ["46\u00b001\u203208\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["41\u00b011\u203231\u2033N"], "city": ["Shaki"], "longitude": ["47\u00b010\u203214\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["40\u00b037\u203249\u2033N"], "city": ["Shamakhy"], "longitude": ["48\u00b038\u203229\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["40\u00b000\u203246\u2033N"], "city": ["Sabirabad"], "longitude": ["48\u00b028\u203244\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["39\u00b055\u203252\u2033N"], "city": ["Saatly"], "longitude": ["48\u00b022\u203211\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["39\u00b020\u203238\u2033N"], "city": ["Qubadli"], "longitude": ["46\u00b034\u203247\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["41\u00b025\u203235\u2033N"], "city": ["Qusar"], "longitude": ["48\u00b026\u203208\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["41\u00b005\u203236\u2033N"], "city": ["Qazakh"], "longitude": ["45\u00b021\u203258\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["38\u00b054\u203229\u2033N"], "city": ["Ordubad"], "longitude": ["46\u00b001\u203240\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["41\u00b021\u203235\u2033N"], "city": ["Quba"], "longitude": ["48\u00b030\u203245\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["41\u00b004\u203215\u2033N"], "city": ["Oguz"], "longitude": ["47\u00b027\u203230\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["39\u00b021\u203231\u2033N"], "city": ["Neftchala"], "longitude": ["49\u00b014\u203249\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["41\u00b025\u203221\u2033N"], "city": ["Qakh"], "longitude": ["46\u00b055\u203227\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["40\u00b030\u203224\u2033N"], "city": ["Naftalan"], "longitude": ["46\u00b049\u203230\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["40\u00b058\u203253\u2033N"], "city": ["Qabala"], "longitude": ["47\u00b050\u203245\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["38\u00b046\u203231\u2033N"], "city": ["Lerik"], "longitude": ["48\u00b024\u203255\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["39\u00b002\u203203\u2033N"], "city": ["Masally"], "longitude": ["48\u00b039\u203256\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["40\u00b046\u203212\u2033N"], "city": ["Mingacevir"], "longitude": ["47\u00b002\u203256\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["39\u00b012\u203258\u2033N"], "city": ["Nakhichevan"], "longitude": ["45\u00b024\u203238\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["15\u00b020\u2032N"], "city": ["Laos"], "longitude": ["106\u00b043\u2032E"], "country": "Armenia"}
+{"latitude": ["40\u00b020\u203218\u2033N"], "city": ["Kurdamir"], "longitude": ["48\u00b009\u203239\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["39\u00b047\u203243\u2033N"], "city": ["Khojavend"], "longitude": ["47\u00b006\u203247\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["41\u00b028\u203215\u2033N"], "city": ["Khachmaz"], "longitude": ["48\u00b048\u203235\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["40\u00b026\u203255\u2033N"], "city": ["Khyrdalan"], "longitude": ["49\u00b045\u203223\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["39\u00b024\u203200\u2033N"], "city": ["Jabrayil"], "longitude": ["47\u00b001\u203234\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["38\u00b045\u203213\u2033N"], "city": ["Lankaran"], "longitude": ["48\u00b051\u203204\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["40\u00b047\u203224\u2033N"], "city": ["Ismailli"], "longitude": ["48\u00b009\u203207\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["38\u00b057\u203221\u2033N"], "city": ["Julfa"], "longitude": ["45\u00b037\u203251\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["39\u00b052\u203211\u2033N"], "city": ["Imishli"], "longitude": ["48\u00b003\u203236\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["40\u00b006\u203224\u2033N"], "city": ["Kalbajar"], "longitude": ["46\u00b002\u203218\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["40\u00b002\u203217\u2033N"], "city": ["Hajigabul"], "longitude": ["48\u00b056\u203213\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["40\u00b036\u203237\u2033N"], "city": ["Goranboy"], "longitude": ["46\u00b047\u203223\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["40\u00b035\u203213\u2033N"], "city": ["Goygol"], "longitude": ["46\u00b018\u203257\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["40\u00b033\u203256\u2033N"], "city": ["Gadabay"], "longitude": ["45\u00b048\u203258\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["40\u00b039\u203211\u2033N"], "city": ["Goychay"], "longitude": ["47\u00b044\u203226\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["40\u00b040\u203258\u2033N"], "city": ["Ganja"], "longitude": ["46\u00b021\u203238\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["39\u00b036\u203201\u2033N"], "city": ["Fuzuli"], "longitude": ["47\u00b008\u203235\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["41\u00b012\u203241\u2033N"], "city": ["Davachi"], "longitude": ["48\u00b059\u203210\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["39\u00b046\u203232\u2033N"], "city": ["Beylagan"], "longitude": ["47\u00b037\u203207\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["39\u00b027\u203230\u2033N"], "city": ["Bilasuvar"], "longitude": ["48\u00b032\u203242\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["40\u00b029\u203241\u2033N"], "city": ["Dashkasan"], "longitude": ["46\u00b004\u203238\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["40\u00b022\u203228\u2033N"], "city": ["Barda"], "longitude": ["47\u00b007\u203236\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["38\u00b027\u203222\u2033N"], "city": ["Astara"], "longitude": ["48\u00b052\u203243\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["39\u00b009\u203207\u2033N"], "city": ["Babek"], "longitude": ["45\u00b026\u203230\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["41\u00b043\u203233\u2033N"], "city": ["Balak\u0259n"], "longitude": ["46\u00b024\u203230\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["40\u00b023\u203243\u2033N"], "city": ["Baku"], "longitude": ["49\u00b052\u203256\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["40\u00b034\u203209\u2033N"], "city": ["Agsu"], "longitude": ["48\u00b024\u203203\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["40\u00b003\u203210\u2033N"], "city": ["Agjabadi"], "longitude": ["47\u00b027\u203241\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["40\u00b039\u203200\u2033N"], "city": ["Agdash"], "longitude": ["47\u00b028\u203234\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["41\u00b007\u203208\u2033N"], "city": ["Agstafa"], "longitude": ["45\u00b027\u203214\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["43\u00b052\u2032N"], "city": ["Socialist Republic of Bosnia and Herzegovina"], "longitude": ["18\u00b025\u2032E"], "country": "Herzegovina"}
+{"latitude": ["42\u00b047\u2032N"], "city": ["Socialist Federal Republic of Yugoslavia"], "longitude": ["19\u00b028\u2032E"], "country": "Herzegovina"}
+{"latitude": ["39\u00b059\u203235\u2033N"], "city": ["Agdam"], "longitude": ["46\u00b055\u203250\u2033E"], "country": "Azerbaijan"}
+{"latitude": ["44\u00b049\u203214\u2033N"], "city": ["Kingdom of Yugoslavia"], "longitude": ["20\u00b027\u203244\u2033E"], "country": "Herzegovina"}
+{"latitude": ["54\u00b022\u203201\u2033N"], "city": ["Andreas"], "longitude": ["4\u00b026\u203238\u2033W"], "country": "Man"}
+{"latitude": ["54\u00b005\u203210\u2033N"], "city": ["Port Erin"], "longitude": ["4\u00b045\u203222\u2033W"], "country": "Man"}
+{"latitude": ["54\u00b010\u203223\u2033N"], "city": ["Onchan"], "longitude": ["4\u00b026\u203220\u2033W"], "country": "Man"}
+{"latitude": ["54\u00b004\u203230\u2033N"], "city": ["Port St Mary"], "longitude": ["4\u00b044\u203220\u2033W"], "country": "Man"}
+{"latitude": ["54\u00b013\u203216\u2033N"], "city": ["Peel"], "longitude": ["4\u00b041\u203228\u2033W"], "country": "Man"}
+{"latitude": ["46\u00b030\u203220\u2033N"], "city": ["Alps"], "longitude": ["9\u00b019\u203249\u2033E"], "country": "Austria"}
+{"latitude": ["54\u00b019\u203216\u2033N"], "city": ["Ramsey"], "longitude": ["4\u00b023\u203204\u2033W"], "country": "Man"}
+{"latitude": ["54\u00b004\u203227\u2033N"], "city": ["Castletown"], "longitude": ["4\u00b039\u203214\u2033W"], "country": "Man"}
+{"latitude": ["54\u00b013\u203240\u2033N"], "city": ["Laxey"], "longitude": ["4\u00b024\u203207\u2033W"], "country": "Man"}
+{"latitude": ["54\u00b008\u203242\u2033N"], "city": ["Douglas", "capital"], "longitude": ["4\u00b028\u203255\u2033W"], "country": "Man"}
+{"latitude": ["48\u00b012\u2032N"], "city": ["First Austrian Republic"], "longitude": ["16\u00b022\u2032E"], "country": "Austria"}
+{"latitude": ["48\u00b012\u203230\u2033N"], "city": ["Congress of Vienna"], "longitude": ["16\u00b022\u203223\u2033E"], "country": "Austria"}
+{"latitude": ["47\u00b035\u203230\u2033N"], "city": ["Geography of Austria"], "longitude": ["14\u00b038\u20320\u2033E"], "country": "Austria"}
+{"latitude": ["48\u00b012\u2032N"], "city": ["Austria-Hungary"], "longitude": ["16\u00b021\u2032E"], "country": "Austria"}
+{"latitude": ["15\u00b020\u2032N"], "city": ["State of Eritrea"], "longitude": ["38\u00b055\u2032E"], "country": "states"}
+{"latitude": ["64\u00b0N"], "city": ["Republic of Finland"], "longitude": ["26\u00b0E"], "country": "states"}
+{"latitude": ["18\u00b0S"], "city": ["Republic of the Fiji Islands"], "longitude": ["179\u00b0E"], "country": "states"}
+{"latitude": ["47\u00b0N"], "city": ["French Republic"], "longitude": ["2\u00b0E"], "country": "states"}
+{"latitude": ["9\u00b01\u2032N"], "city": ["Federal Democratic Republic of Ethiopia"], "longitude": ["38\u00b045\u2032E"], "country": "states"}
+{"latitude": ["00\u00b09\u2032S"], "city": ["Republic of Ecuador"], "longitude": ["78\u00b021\u2032W"], "country": "states"}
+{"latitude": ["1\u00b030\u2032N"], "city": ["Republic of Equatorial Guinea"], "longitude": ["10\u00b000\u2032E"], "country": "states"}
+{"latitude": ["26\u00b0N"], "city": ["Arab Republic of Egypt"], "longitude": ["30\u00b0E"], "country": "states"}
+{"latitude": ["13\u00b040\u2032N"], "city": ["Republic of El Salvador"], "longitude": ["89\u00b010\u2032W"], "country": "states"}
+{"latitude": ["59\u00b0N"], "city": ["Republic of Estonia"], "longitude": ["26\u00b0E"], "country": "states"}
+{"latitude": ["8\u00b034\u2032S"], "city": ["Democratic Republic of Timor-Leste"], "longitude": ["125\u00b034\u2032E"], "country": "states"}
+{"latitude": ["19\u00b000\u2032N"], "city": ["Dominican Republic"], "longitude": ["70\u00b040\u2032W"], "country": "states"}
+{"latitude": ["15\u00b018\u2032N"], "city": ["Commonwealth of Dominica"], "longitude": ["61\u00b023\u2032W"], "country": "states"}
+{"latitude": ["11\u00b036\u2032N"], "city": ["Republic of Djibouti"], "longitude": ["43\u00b010\u2032E"], "country": "states"}
+{"latitude": ["34\u00b035\u2032N"], "city": ["List of cities in Dhekelia", "Sovereign Base Areas of Dhekelia (", ")"], "longitude": ["32\u00b059\u2032E"], "country": "states"}
+{"latitude": ["23\u00b08\u2032N"], "city": ["Republic of Cuba"], "longitude": ["82\u00b023\u2032W"], "country": "states"}
+{"latitude": ["9\u00b056\u2032N"], "city": ["Republic of Costa Rica"], "longitude": ["84\u00b05\u2032W"], "country": "states"}
+{"latitude": ["6\u00b051\u2032N"], "city": ["Republic of C\u00f4te d'Ivoire"], "longitude": ["5\u00b018\u2032W"], "country": "states"}
+{"latitude": ["45\u00b048\u2032N"], "city": ["Republic of Croatia"], "longitude": ["16\u00b00\u2032E"], "country": "states"}
+{"latitude": ["49\u00b045\u2032N"], "city": ["Czech Republic"], "longitude": ["15\u00b030\u2032E"], "country": "states"}
+{"latitude": ["56\u00b0N"], "city": ["Kingdom of Denmark"], "longitude": ["10\u00b0E"], "country": "states"}
+{"latitude": ["11\u00b041\u2032S"], "city": ["Union of the Comoros"], "longitude": ["43\u00b016\u2032E"], "country": "states"}
+{"latitude": ["35\u00b0N"], "city": ["Republic of Cyprus"], "longitude": ["33\u00b0E"], "country": "states"}
+{"latitude": ["4\u00b016\u2032S"], "city": ["Republic of the Congo"], "longitude": ["15\u00b017\u2032E"], "country": "states"}
+{"latitude": ["4\u00b019\u2032S"], "city": ["Democratic Republic of the Congo"], "longitude": ["15\u00b019\u2032E"], "country": "states"}
+{"latitude": ["4\u00b035\u2032N"], "city": ["Republic of Colombia"], "longitude": ["74\u00b04\u2032W"], "country": "states"}
+{"latitude": ["35\u00b0N"], "city": ["People's Republic of China"], "longitude": ["103\u00b0E"], "country": "states"}
+{"latitude": ["33\u00b026\u2032S"], "city": ["Republic of Chile"], "longitude": ["70\u00b040\u2032W"], "country": "states"}
+{"latitude": ["12\u00b006\u2032N"], "city": ["Republic of Chad"], "longitude": ["16\u00b002\u2032E"], "country": "states"}
+{"latitude": ["15\u00b006\u203240\u2033N"], "city": ["Republic of Cape Verde"], "longitude": ["23\u00b037\u203200\u2033W"], "country": "states"}
+{"latitude": ["4\u00b022\u2032N"], "city": ["Central African Republic"], "longitude": ["18\u00b035\u2032E"], "country": "states"}
+{"latitude": ["3\u00b030\u2032S"], "city": ["Repubilic of Burundi"], "longitude": ["30\u00b000\u2032E"], "country": "states"}
+{"latitude": ["3\u00b052\u2032N"], "city": ["Republic of Cameroon"], "longitude": ["11\u00b031\u2032E"], "country": "states"}
+{"latitude": ["12\u00b020\u2032N"], "city": ["Burkina Faso"], "longitude": ["1\u00b040\u2032W"], "country": "states"}
+{"latitude": ["45\u00b024\u2032N"], "city": ["Canada"], "longitude": ["75\u00b040\u2032W"], "country": "states"}
+{"latitude": ["4\u00b053\u203225\u2033N"], "city": ["State of Brunei Darussalam"], "longitude": ["114\u00b056\u203232\u2033E"], "country": "states"}
+{"latitude": ["24\u00b039.5\u2032S"], "city": ["Republic of Botswana"], "longitude": ["25\u00b054.5\u2032E"], "country": "states"}
+{"latitude": ["42\u00b041\u2032N"], "city": ["Repubilic of Bulgaria"], "longitude": ["23\u00b019\u2032E"], "country": "states"}
+{"latitude": ["11\u00b033\u2032N"], "city": ["Kingdom of Cambodia"], "longitude": ["104\u00b055\u2032E"], "country": "states"}
+{"latitude": ["44\u00b0N"], "city": ["Bosnia and Herzegovina"], "longitude": ["18\u00b0E"], "country": "states"}
+{"latitude": ["15\u00b045\u2032S"], "city": ["Federative Republic of Brazil"], "longitude": ["47\u00b057\u2032W"], "country": "states"}
+{"latitude": ["17\u00b048\u2032S"], "city": ["Plurinational State of Bolivia"], "longitude": ["63\u00b010\u2032W"], "country": "states"}
+{"latitude": ["17\u00b015\u2032N"], "city": ["Belize"], "longitude": ["88\u00b046\u2032W"], "country": "states"}
+{"latitude": ["50\u00b051\u2032N"], "city": ["Kingdom of Belgium"], "longitude": ["4\u00b021\u2032E"], "country": "states"}
+{"latitude": ["27\u00b028.0\u2032N"], "city": ["Kingdom of Bhutan"], "longitude": ["89\u00b038.5\u2032E"], "country": "states"}
+{"latitude": ["6\u00b028\u2032N"], "city": ["Republic of Benin"], "longitude": ["2\u00b036\u2032E"], "country": "states"}
+{"latitude": ["13\u00b010\u2032N"], "city": ["Barbados"], "longitude": ["59\u00b032\u2032W"], "country": "states"}
+{"latitude": ["25\u00b04\u2032N"], "city": ["Commonwealth of The Bahamas"], "longitude": ["77\u00b020\u2032W"], "country": "states"}
+{"latitude": ["26\u00b001\u203239\u2033N"], "city": ["Kingdom of Bahrain"], "longitude": ["50\u00b033\u203200\u2033E"], "country": "states"}
+{"latitude": ["53\u00b055\u2032N"], "city": ["Republic of Belarus"], "longitude": ["27\u00b033\u2032E"], "country": "states"}
+{"latitude": ["23\u00b042\u2032N"], "city": ["People's of Republic Bangladesh"], "longitude": ["90\u00b021\u2032E"], "country": "states"}
+{"latitude": ["35\u00b018\u2032S"], "city": ["Commonwealth of Australia"], "longitude": ["149\u00b08\u2032E"], "country": "states"}
+{"latitude": ["40\u00b018\u2032N"], "city": ["Republic of Azerbaijan", "saqib"], "longitude": ["47\u00b042\u2032E"], "country": "states"}
+{"latitude": ["48\u00b012\u2032N"], "city": ["Republic of Austria"], "longitude": ["16\u00b021\u2032E"], "country": "states"}
+{"latitude": ["34\u00b036\u2032S"], "city": ["Argentine Republic"], "longitude": ["58\u00b023\u2032W"], "country": "states"}
+{"latitude": ["17\u00b07\u2032N"], "city": ["Antigua and Barbuda"], "longitude": ["61\u00b051\u2032W"], "country": "states"}
+{"latitude": ["36\u00b042\u2032N"], "city": ["People's Democratic Republic of Algeria"], "longitude": ["3\u00b013\u2032E"], "country": "states"}
+{"latitude": ["8\u00b050\u2032S"], "city": ["Republic of Angola"], "longitude": ["13\u00b020\u2032E"], "country": "states"}
+{"latitude": ["41\u00b0N"], "city": ["Republic of Albania"], "longitude": ["20\u00b0E"], "country": "states"}
+{"latitude": ["42\u00b030\u2032N"], "city": ["Principality of Andorra"], "longitude": ["1\u00b031\u2032E"], "country": "states"}
+{"latitude": ["34\u00b032\u2032N"], "city": ["Islamic Republic of Afghanistan"], "longitude": ["69\u00b008\u2032E"], "country": "states"}
+{"latitude": ["45\u00b038\u203227\u2033N"], "city": ["counties"], "longitude": ["16\u00b011\u203257\u2033E"], "country": "Croatia"}
+{"latitude": ["40\u00b011\u2032N"], "city": ["Republic of Armenia"], "longitude": ["44\u00b031\u2032E"], "country": "states"}
